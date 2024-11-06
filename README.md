@@ -1,4 +1,4 @@
-# ripplemarket
+# RippleMarket
 
 XRPL Sea Hackathon 2024
 
