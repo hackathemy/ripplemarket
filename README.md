@@ -1,6 +1,6 @@
 # ripplemarket
 
-XRPL Hackathon Seoul 2024
+XRPL Sea Hackathon 2024
 
 ### social login
 `components/wallet.tsx`
