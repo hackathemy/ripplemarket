@@ -2,6 +2,9 @@
 
 XRPL Sea Hackathon 2024
 
+## Overview
+The **Ripple Market** project in Danggeun Market aims to bring the convenience, security, and efficiency of Ripple (XRP) payments to the popular Korean community-based app, where people buy, sell, and trade locally. By integrating Ripple, the project expands Danggeun Market’s reach, offering a reliable platform for **`global peer-to-peer (P2P) transactions`** that emphasizes safe, low-cost, and accessible trading within local communities. The project combines Danggeun Market’s active user base with Web3 technology to enhance the overall trading experience, reducing entry barriers to blockchain for new users.
+
 ### social login
 `components/wallet.tsx`
 
